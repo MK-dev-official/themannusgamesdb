@@ -1,47 +1,75 @@
 <p>
-<h1>Privacy Policy per "L'ombra del mistero"</h1></br></br>
+</p><h1>Privacy Policy per "Mistero al Country Club."</h1>
+<br>
+<br>
 
-1. Introduzione</br></br>
+1. Introduzione<br>
+<br>
 
-"L'ombra del mistero" è un'applicazione fornita dal Centro Estivo Mannus. Questa Privacy Policy ha lo scopo di informare gli utenti su come trattiamo le informazioni personali nell'app.</br></br>
+"Mistero al Country Club" è un'applicazione fornita dal Centro Estivo Mannus. Questa Privacy Policy ha lo scopo di informare
+gli utenti su come trattiamo le informazioni personali nell'app.<br>
+<br>
 
-2. Informazioni raccolte</br></br>
+2. Informazioni raccolte<br>
+<br>
 
-Non raccogliamo alcuna informazione personale attraverso "L'ombra del mistero."</br></br>
+Non raccogliamo alcuna informazione personale attraverso "Mistero al Country Club."<br>
+<br>
 
-3. Uso delle informazioni</br></br>
+3. Uso delle informazioni<br>
+<br>
 
-Poiché non raccogliamo informazioni personali, non utilizziamo tali informazioni in alcun modo.</br></br>
+Poiché non raccogliamo informazioni personali, non utilizziamo tali informazioni in alcun modo.<br>
+<br>
 
-4. Condivisione con terze parti</br></br>
+4. Condivisione con terze parti<br>
+<br>
 
-Non condividiamo informazioni con terze parti, poiché non raccogliamo informazioni personali.</br></br>
+Non condividiamo informazioni con terze parti, poiché non raccogliamo informazioni personali.<br>
+<br>
 
-5. Opzioni di Opt-Out</br></br>
+5. Opzioni di Opt-Out<br>
+<br>
 
-Gli utenti sono esclusi dalla condivisione delle informazioni personali di default, poiché non raccogliamo informazioni personali.</br></br>
+Gli utenti sono esclusi dalla condivisione delle informazioni personali di default, poiché non raccogliamo informazioni
+personali.<br>
+<br>
 
-6. Misure di sicurezza</br></br>
+6. Misure di sicurezza<br>
+<br>
 
-Poiché non raccogliamo informazioni personali, non sono necessarie misure di sicurezza specifiche per proteggere tali informazioni.</br></br>
+Poiché non raccogliamo informazioni personali, non sono necessarie misure di sicurezza specifiche per proteggere tali
+informazioni.<br>
+<br>
 
-7. Accesso e controllo</br></br>
+7. Accesso e controllo<br>
+<br>
 
-Gli utenti non hanno la possibilità di accedere, correggere o eliminare le loro informazioni personali, poiché non raccogliamo tali informazioni.</br></br>
+Gli utenti non hanno la possibilità di accedere, correggere o eliminare le loro informazioni personali, poiché non
+raccogliamo tali informazioni.<br>
+<br>
 
-8. Cookies e tecnologie simili</br></br>
+8. Cookies e tecnologie simili<br>
+<br>
 
-"L'ombra del mistero" non utilizza cookies o tecnologie simili.</br></br>
+"Mistero al Country Club" non utilizza cookies o tecnologie simili.<br>
+<br>
 
-9. Privacy dei minori</br></br>
+9. Privacy dei minori<br>
+<br>
 
-L'app non raccoglie dati sui minori.</br></br>
+L'app non raccoglie dati sui minori.<br>
+<br>
 
-10. Modifiche alla Privacy Policy</br></br>
+10. Modifiche alla Privacy Policy<br>
+<br>
 
-Eventuali modifiche a questa Privacy Policy verranno comunicate agli utenti ad ogni nuova release dell'app.</br></br>
+Eventuali modifiche a questa Privacy Policy verranno comunicate agli utenti ad ogni nuova release dell'app.<br>
+<br>
 
-11. Contatto</br></br>
+11. Contatto<br>
+<br>
 
-Per eventuali domande o preoccupazioni riguardo a questa Privacy Policy, puoi contattarci all'indirizzo email: dev@kmiguel.com
-</p>
+Per eventuali domande o preoccupazioni riguardo a questa Privacy Policy, puoi contattarci all'indirizzo email:
+dev@kmiguel.com
+<p></p>
